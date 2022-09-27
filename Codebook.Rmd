@@ -1,0 +1,93 @@
+---
+title: "COde book"
+output: html_notebook
+---
+
+Activity: type of activity
+
+Subjects: subject code
+
+time Body Accelerometer-Mean-X Axis: Mean of time domain evaluated by accelerometer in X Axis
+
+ [1] "Activity": type of activity                                                          
+ [2] "Subjects": subject code                                                          
+ [3] "time Body Accelerometer-Mean-X Axis": Mean of body motion time  evaluated by accelerometer in X Axis                             
+ [4] "time Body Accelerometer-Mean-Y Axis": Mean of body motion time evaluated by accelerometer in Y Axis                               
+ [5] "time Body Accelerometer-Mean-Z Axis: Mean of body motion time evaluated by accelerometer in Z Axis                              
+ [6] "time Gravity Accelerometer-Mean-X Axis" : Mean of body gravitional time  evaluated by accelerometer in X Axis                            
+ [7] "time Gravity Accelerometer-Mean-Y Axis" : Mean of body gravitional time  evaluated by accelerometer in Y Axis                           
+ [8] "time Gravity Accelerometer-Mean-Z Axis": Mean of body gravitional time  evaluated by accelerometer in Z Axis                            
+ [9] "time Body Accelerometer Jerk-Mean-X Axis": Mean of body jerk time  evaluated by accelerometer in X Axis                          
+[10] "time Body Accelerometer Jerk-Mean-Y Axis": Mean of body jerk time  evaluated by accelerometer in Y Axis                          
+[11] "time Body Accelerometer Jerk-Mean-Z Axis": Mean of body jerk time  evaluated by accelerometer in Z Axis                          
+[12] "time Body Gyroscope-Mean-X Axis": Mean of body motion time  evaluated by Gyroscope in X Axis                                          
+[13] "time Body Gyroscope-Mean-Y Axis": Mean of body motion time  evaluated by Gyroscope in y Axis                                         
+[14] "time Body Gyroscope-Mean-Z Axis": Mean of body motion time  evaluated by Gyroscope in Z Axis                                         
+[15] "time Body Gyroscope Jerk-Mean-X Axis": Mean of body jerk time  evaluated by Gyroscope in X Axis                              
+[16] "time Body Gyroscope Jerk-Mean-Y Axis": Mean of body jerk time  evaluated by Gyroscope in Y Axis                              
+[17] "time Body Gyroscope Jerk-Mean-Z Axis": : Mean of body jerk time  evaluated by Gyroscope in Z Axis                              
+[18] "time Body Accelerometer Magnitude-Mean": Mean of body motion magnetiude time  evaluated by accelerometer                            
+[19] "time Gravity Accelerometer Magnitude-Mean": Mean of body motion gravational time  evaluated by accelerometer                         
+[20] "time Body Accelerometer Jerk Magnitude-Mean": Mean of body motion jerk time  evaluated by accelerometer                       
+[21] "time Body Gyroscope Magnitude-Mean": Mean of body motion gravational time  evaluated by Gyroscope                                
+[22] "time Body Gyroscope Jerk Magnitude-Mean": Mean of body motion jerk time  evaluated by Gyroscope                           
+[23] "Frequency Body Accelerometer-Mean-X Axis":  Frequenct of body motion frequency  evaluated by accelerometer in X Axis                          
+[24] "Frequency Body Accelerometer-Mean-Y Axis":  Frequenct of body motion frequency  evaluated by accelerometer in Y Axis                          
+[25] "Frequency Body Accelerometer-Mean-Z Axis":  Frequenct of body motion frequency  evaluated by accelerometer in Z Axis                          
+[26] "Frequency Body Accelerometer-Mean Frequency-X Axis": Mean Frequenct of body motion frequency  evaluated by accelerometer in X Axis                
+[27] "Frequency Body Accelerometer-Mean Frequency-Y Axis": Mean Frequenct of body motion frequency  evaluated by accelerometer in Y Axis                
+[28] "Frequency Body Accelerometer-Mean Frequency-Z Axis": Mean Frequenct of body motion frequency  evaluated by accelerometer in Z Axis                
+[29] "Frequency Body Accelerometer Jerk-Mean-X Axis": Frequenct of body jerk frequency   evaluated by accelerometer in X Axis                     
+[30] "Frequency Body Accelerometer Jerk-Mean-Y Axis": Frequenct of body jerk frequency  evaluated by accelerometer in Y Axis                     
+[31] "Frequency Body Accelerometer Jerk-Mean-Z Axis": Frequenct of body jerk frequency  evaluated by accelerometer in Z Axis                     
+[32] "Frequency Body Accelerometer Jerk-Mean Frequency-X Axis": Mean Frequenct of body jerk frequency  evaluated by accelerometer in X Axis           
+[33] "Frequency Body Accelerometer Jerk-Mean Frequency-Y Axis": Mean Frequenct of body jerk frequency evaluated by accelerometer in Y Axis          
+[34] "Frequency Body Accelerometer Jerk-Mean Frequency-Z Axis": Mean Frequenct of body jerk frequency  evaluated by accelerometer in Z Axis
+
+[35] "Frequency Body Gyroscope-Mean-X Axis": Mean  body motion frequency  evaluated by Gyroscpe in X Axis                              
+[36] "Frequency Body Gyroscope-Mean-Y Axis": MEan body motion time  frequency by Gyroscpe in Y Axis                               
+[37] "Frequency Body Gyroscope-Mean-Z Axis": MEan  of body motion frequency  evaluated by Gyroscpe in Z Axis                               
+[38] "Frequency Body Gyroscope-Mean Frequency-X Axis": Frequenct of body motion frequency  evaluated by Gyroscpe in X Axis                    
+[39] "Frequency Body Gyroscope-Mean Frequency-Y Axis": Frequenct of body motion frequency  evaluated by Gyroscpe in Y Axis                    
+[40] "Frequency Body Gyroscope-Mean Frequency-Z Axis": Frequenct of body motion frequency  evaluated by Gyroscpe in Z Axis                   
+[41] "Frequency Body Accelerometer Magnitude-Mean"": Mean of body motion magnetiude frequency  evaluated by accelerometer                        
+[42] "Frequency Body Accelerometer Magnitude-Mean Frequency": Frequent of body motion magnetiude frequency  evaluated by accelerometer                                    
+[43] "Frequency BodyBody Accelerometer Jerk Magnitude-Mean"": Mean of Body motion frequency of jerk magnitude evaluated by accelerometer              
+[44] "Frequency BodyBody Accelerometer Jerk Magnitude-Mean Frequency": Frequent of Body motion frequency of jerk magnitude evaluated by accelerometer                
+[45] "Frequency BodyBody Gyroscope Magnitude-Mean"L = Mean of Body motion frequency of jerk magnitude evaluated by Gyroscope                                     
+[46] "Frequency BodyBody Gyroscope Magnitude-Mean Frequency": Mean frequent of Body motion frequency of jerk magnitude evaluated by Gyroscope                           
+[47] "Frequency BodyBody Gyroscope Jerk Magnitude-Mean": Mean of frequency of body motion jerk magnitude evaluated by Gyroscope                  
+[48] "Frequency BodyBody Gyroscope Jerk Magnitude-Mean Frequency": Mean Frequent of BOdy motion jerk magnitiuedevaluated by Gyroscope       
+[49] "time Body Accelerometer-Standard Deviation-X Axis":  SD of body motion time  evaluated by accelerometer in X Axis                
+[50] "time Body Accelerometer-Standard Deviation-Y Axis": Mean of body motion time  evaluated by accelerometer in Y Axis                
+[51] "time Body Accelerometer-Standard Deviation-Z Axis" : Mean of body motion time  evaluated by accelerometer in Z Axis                
+[52] "time Gravity Accelerometer-Standard Deviation-X Axis": sd of body gravitional time  evaluated by accelerometer in X Axis              
+[53] "time Gravity Accelerometer-Standard Deviation-Y Axis": : SD of body gravitional time  evaluated by accelerometer in Y Axis
+[54] "time Gravity Accelerometer-Standard Deviation-Z Axis": : SD of body gravitional time  evaluated by accelerometer in Z Axis 
+[55] "time Body Accelerometer Jerk-Standard Deviation-X Axis": sd of body jerk time  evaluated by accelerometer in X Axis            
+[56] "time Body Accelerometer Jerk-Standard Deviation-Y Axis": sd of body jerk time  evaluated by accelerometer in y Axis            
+[57] "time Body Accelerometer Jerk-Standard Deviation-Z Axis": sd of body jerk time  evaluated by accelerometer in z Axis            
+[58] "time Body Gyroscope-Standard Deviation-X Axis": sd of body motion time  evaluated by Gyroscope in X Axis                     
+[59] "time Body Gyroscope-Standard Deviation-Y Axis": sd of body motion time  evaluated by Gyroscope in y Axis                     
+[60] "time Body Gyroscope-Standard Deviation-Z Axis": sd of body motion time  evaluated by Gyroscope in z Axis                     
+[61] "time Body Gyroscope Jerk-Standard Deviation-X Axis": sd of body jerk time  evaluated by Gyroscope in X Axis                
+[62] "time Body Gyroscope Jerk-Standard Deviation-Y Axis": sd of body jerk time  evaluated by Gyroscope in Y Axis                
+[63] "time Body Gyroscope Jerk-Standard Deviation-Z Axis": sd of body jerk time  evaluated by Gyroscope in z Axis                
+[64] "time Body Accelerometer Magnitude-Standard Deviation": sd of body motion magnetiude time  evaluated by accelerometer              
+[65] "time Gravity Accelerometer Magnitude-Standard Deviation": SD of graviational time of body movememnt evaluated by Accelerometer           
+[66] "time Body Accelerometer Jerk Magnitude-Standard Deviation": sd of body motion jerk magnetiude time  evaluated by Accelerometer         
+[67] "time Body Gyroscope Magnitude-Standard Deviation": SD of graviational time of body movememnt evaluated by Gyroscope                  
+[68] "time Body Gyroscope Jerk Magnitude-Standard Deviation": SD of graviational time of body movememnt evaluated by Accelerometer             
+[69] "Frequency Body Accelerometer-Standard Deviation-X Axis": Sd of frequency of body motion evaluated by accelerometer in X Axis            
+[70] "Frequency Body Accelerometer-Standard Deviation-Y Axis": Sd of frequency of body motion evaluated by accelerometer in Y Axis            
+[71] "Frequency Body Accelerometer-Standard Deviation-Z Axis"" Sd of frequency of body motion evaluated by accelerometer in Z Axis                        
+[72] "Frequency Body Accelerometer Jerk-Standard Deviation-X Axis": sd of frequenc of body motion jerk evaluated by accelerometer in X Axis       
+[73] "Frequency Body Accelerometer Jerk-Standard Deviation-Y Axis": sd of frequenc of body motion jerk evaluated by accelerometer in Y Axis              
+[74] "Frequency Body Accelerometer Jerk-Standard Deviation-Z Axis": sd of frequenc of body motion jerk evaluated by accelerometer in Z Axis              
+[75] "Frequency Body Gyroscope-Standard Deviation-X Axis": SD of frequency of body movement evaluated by Gyroscope in X-Axis
+[76] "Frequency Body Gyroscope-Standard Deviation-Y Axis": SD of frequency of body movement evaluated by Gyroscope in Y-Axis                
+[77] "Frequency Body Gyroscope-Standard Deviation-Z Axis": SD of frequency of body movement evaluated by Gyroscope in Z-Axis                
+[78] "Frequency Body Accelerometer Magnitude-Standard Deviation" : SD of body motion magnitude evaluated by acelerometer        
+[79] "Frequency BodyBody Accelerometer Jerk Magnitude-Standard Deviation": SD of body motion jerk evaluated by acelerometer        
+[80] "Frequency BodyBody Gyroscope Magnitude-Standard Deviation" SD of body motion magnitude evaluated by Gyroscope                 
+[81] "Frequency BodyBody Gyroscope Jerk Magnitude-Standard Deviation": SD of body motion jerk evaluated by Gyroscpe        
