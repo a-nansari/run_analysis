@@ -1,1 +1,19 @@
 # run_analysis
+
+In the first step, the coades loads the dplyr packages which is necessary to performe the analyses. 
+
+In the second step, the code loades the three datasets within the train and test data sets. 
+
+In the third and fourth steps, the codes merge three datasets within the train and test datasets creating train and test datas. 
+
+In the fifth step the code merge data and train datasets creating the final merged data. 
+
+In the sixth step, using the variables names files, the code assigns the suitable name to each variable. 
+
+In the seventh stage, variables that reported mean and SD are extracted. 
+
+In the eights stage, the six factors of avitivities are created within the variable. 
+
+In the ninth stage, abbreviations within the variables names are replaced with the original names. 
+
+In the last stage, the data was grouped by type of activity and subjects and mean of each variable for each group was calculated. 
