@@ -1,5 +1,8 @@
 # run_analysis
 
+First, download the file and unzip it in the working directory. 
+Second, run the analsis_run.R file. 
+
 In the first step, the coades loads the dplyr packages which is necessary to performe the analyses. 
 
 In the second step, the code loades the three datasets within the train and test data sets. 
